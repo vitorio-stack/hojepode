@@ -285,17 +285,13 @@ header nav a {
 
 .cta a {
     display: block;
-    align-items: center;
-    border-radius: 35px;
-    margin: 30px 620px;
-    padding: 15px;
-    background-color: #331d16;
-    color: #fff;
-    width: 300px;
-    height: 50px;
-    font-weight: 500;
-    transition: 0.3s;
-
+    margin: 20px auto;
+    padding: 15px 25px;
+    background: #4b1f16;
+    color: white;
+    border-radius: 40px;
+    text-align: center;
+    width: fit-content;
 
 }
 
@@ -446,10 +442,11 @@ footer section {
 
     .cta a {
 
-        margin-left: -1px;
-        border-radius: 15px;
-        margin-left: 45px;
-
+        display: block;
+        margin: 20px auto;
+        padding: 15px 25px;
+        text-align: center;
+        width: fit-content;
     }
 
     .cta p {
@@ -483,6 +480,7 @@ footer section {
     }
 
     footer p {}
+
 
 
 
