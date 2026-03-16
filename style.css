@@ -415,7 +415,7 @@ footer section {
     .menu-grid {
         display: flex;
         flex-direction: column;
-        max-width: 20rem;
+        max-width: 19rem;
         height: 200rem;
         margin-bottom: -200px;
 
