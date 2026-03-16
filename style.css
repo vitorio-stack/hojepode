@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&display=swap');
 
 * {
     margin: 0;
@@ -148,7 +148,7 @@ header nav a {
     font-size: 20px;
     text-align: center;
     margin: 50px 60px;
-    font-family: "Lora", serif;
+    font-family: "Dancing Script", cursive;
 
 }
 
